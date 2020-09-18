@@ -1,4 +1,4 @@
-# Sentiment Analysys
+# Sentiment Analysis
  Final project of Python Functions, Files and Dictionaries from University of Michigan
 
 ## About the project
