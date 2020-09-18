@@ -1,1 +1,2 @@
-/.idea
+# ignore all . folders but include . files
+.*/
